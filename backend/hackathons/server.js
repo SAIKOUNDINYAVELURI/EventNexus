@@ -7,7 +7,7 @@ const port = 5000;
 const dbConfig = { 
     host: 'localhost', 
     user: 'root', 
-    password: '08052005@sql', 
+    password: '', 
     database: 'hackathons' 
 }; 
 app.use(cors()); 
@@ -25,4 +25,5 @@ app.get('/server', async (req, res) => {
 // Start the server 
 app.listen(port, () => { 
     console.log(`Server is running at http://localhost:${port}`); 
+
 });
