@@ -74,7 +74,7 @@ Ensure the following are installed:
 
 1. **Clone the repo**  
    ```
-   git clone https://github.com/your-username/EventNexus.git
+   git clone https://github.com/SAIKOUNDINYAVELURI/EventNexus.git
    cd EventNexus
    ```
 
