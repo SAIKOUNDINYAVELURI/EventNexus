@@ -131,7 +131,7 @@ Ensure the following are installed:
    
     ![Dashboard Screenshot](./images/Internship_register.png)
 
-
+---
 
 ## ⚠️ Known Issues
 
