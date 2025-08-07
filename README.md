@@ -111,6 +111,12 @@ Ensure the following are installed:
 
 ---
 
+## Web pages
+
+
+1. Main Page
+   ![Dashboard Screenshot](./images/dashboard.png)
+
 ## ⚠️ Known Issues
 
 - Puppeteer may fail if Chromium download fails during install – try:
