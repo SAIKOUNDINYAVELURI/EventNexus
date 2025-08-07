@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Internships - EventNexus</title>
+  <style>
+    body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #f6d365, #fda085,lightsalmon );
+  color: black;
+  margin: 0;
+  padding: 20px;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: whitesmoke;
+  padding: 20px;
+  border-radius: 12px;
+  transition: transform 0.3s;
+  box-shadow: 0 0 15px lightcoral;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card h2 {
+  margin-top: 10px;
+  font-size: 1.5em;
+  color:black;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #2575fc;
+  text-decoration: none;
+}
+
+  </style>
+</head>
+<body>
+  <h1 class="page-title">🚀 Latest Internships</h1>
+  <div id="internships-container" class="cards-grid"></div>
+
+  <script src="internships.js"></script>
+</body>
+</html>
