@@ -115,7 +115,9 @@ Ensure the following are installed:
 
 
 1. Main Page
-   ![Dashboard Screenshot](./images/dashboard.png)
+   ![Dashboard Screenshot](./images/main.png)
+
+
 
 ## ⚠️ Known Issues
 
