@@ -129,7 +129,7 @@ Ensure the following are installed:
 4. Internships Page
    ![Dashboard Screenshot](./images/Internship_page.png)
    
-    ![Dashboard Screenshot](./images/internship_register.png)
+    ![Dashboard Screenshot](./images/Internship_register.png)
 
 
 
