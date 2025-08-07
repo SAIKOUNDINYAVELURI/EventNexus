@@ -115,7 +115,21 @@ Ensure the following are installed:
 
 
 1. Main Page
+
    ![Dashboard Screenshot](./images/main.png)
+
+2. Hackathons Page
+   
+    ![Dashboard Screenshot](./images/hackathons_page.png)
+   
+    ![Dashboard Screenshot](./images/google_calendar.png)
+   
+    ![Dashboard Screenshot](./images/hackathon_register.png)
+
+4. Internships Page
+   ![Dashboard Screenshot](./images/Internship_page.png)
+   
+    ![Dashboard Screenshot](./images/internship_register.png)
 
 
 
