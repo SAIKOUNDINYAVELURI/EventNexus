@@ -3,7 +3,7 @@ const mysql = require('mysql2/promise');
 const pool = mysql.createPool({
   host: 'localhost',
   user: 'root',
-  password: '08052005@sql',
+  password: '',
   database: 'internships'
 });
 
@@ -30,3 +30,4 @@ module.exports = {
   getAllInternships,
   checkInternshipExists
 };
+
